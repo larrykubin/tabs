@@ -1,0 +1,93 @@
+Smashing Pumpkins - Thirty Three
+================================
+
+Tune half step down
+
+Chord Fingerings: 
+    G1   Gmaj7   Gsus2   G2     Cadd9     Dsus2/A    D6/9sus4 Cmaj7
+E|   x   x       x       x      x         x          x        x
+B|   0   0       x       x      3         3          0        0
+D|   0   0       0       0      0         0          0        0
+G|   5   4       7       9      5         0          7        5
+B|   0   0       0       0      5         0          7        5
+E|   x   x       x       x      x         x          x        x
+
+Fig1                                                      
+G1  Gmaj7  G1  Gsus2   G1   Gmaj7    
+
+Fig2
+G1  Gmaj7  G1  Gsus2   G2   Gmaj7
+
+
+Intro- |Fig1 |Fig2 |Fig1 |
+
+V1-    Cadd             Dsus2/A        Fig1
+       Speak to me in a language I can hear
+       Cadd9       Dsus2/A        Fig1
+       Humour me before I have to go
+       Cadd9            Dsus2/A       Fig1
+       Deep in thought I forgive everyone
+       Cadd9                    Dsus2/A       Fig1
+       As the cluttered streets greet me once again
+
+Br1-                      Cadd9 Dsus2/A   Fig2                              Cadd9 Dsus2/A 
+        I know I can't be late,           supper's waiting on the table
+        Fig1                        Cadd9 Dsus2/A  Fig2 
+        Tomorrow's just an excuse away             So I pull my
+                       Cadd9  Dsus2/A  Fig1
+collar up and face the cold, on my    own
+
+
+V2 -    Cadd9            Dsus/A           Fig1
+        The earth laughs beneath my heavy feet
+        Cadd9               Dsus/A        Fig1
+        At the blasphemy in my old jangly walk
+        Cadd9            Dsus/A          Fig1
+        Steeple guide me to my heart and home
+        Cadd9              Dsus/A       Fig1
+        The sun is out and up and down again
+
+Br2                           Fig2
+         I know I'll make it, love can last forever
+         Fig1                                  D6/9sus4   Cmaj7
+         Graceful swans of never topple to the earth
+
+C1 -  Fig1                       Cadd9  Dsus2/A Fig2   
+        And you can make it last forever you
+                              Cadd9 Dsus2/A  Fig1 
+        You can make it last forever you
+                              Cadd9 Dsus2/A   
+        You can make it last,
+
+           Cadd9 
+        And for a moment I lose myself
+        Dsus2/A                              Fig1
+        Wrapped up in the pleasures of the world
+
+V3 -         Cadd9              Dsus/A         Fig1
+        I've journeyed here and there and back again
+                   Cadd9             Dsus/A        Fig1
+        But in the same old haunts I still find my friends
+        Cadd9         Dsus/A   Fig1
+        Mysteries not ready to reveal 
+        Cadd9          Dsus/A   Fig1
+        Sympathies not ready to return
+
+Br3 -                          Fig2
+         I'll make the effort, love can last for ever
+         Fig1                    D6/9sus4      Cmaj7
+         Graceful swans of never topple to the earth
+         D6/9sus4           Cmaj7
+         Tomorrow's just an excuse
+         D6/9sus4           Cmaj7
+         Tomorrow's just an excuse
+        
+       Fig1                   Cadd9 Dsus2/A   Fig2
+C2- And you can make it last, forever you
+                         Cadd9 Dsus2/A   Fig1
+       Can make it last, forever you
+                         Cadd9 Dsus2/A   Cadd9 Dsus2/A   
+       Can make it last, forever you     Forever you
+
+End - |Fig1 |Fig2 | Fig1| G1 |
+

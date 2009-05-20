@@ -1,0 +1,186 @@
+"Bodies'  from the album Mellon Collie & the Infinite Sadness by the Smashing Pumpkins
+
+First off, use what Billy calls 'grunge tuning' (dropped D).  Then take that Dropped D and tune it down a
+half step to a C#.  In the last guitar world interview  Billy said the whole album was tuned down a half 
+to get a deeper sound.  After that, the song is quite easy.
+
+Major distortion
+"Love is suicide...."
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+--3333333333/777777777777\22222222222/333333333-----------------------|
+--3333333333/777777777777\22222222222/333333333-----------------------|
+--3333333333/777777777777\22222222222/333333333-----------------------|
+
+change #1 "...casualties of their own past...."
+
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+--2222222222/777777777777\55555555555\222222222-----------------------|
+--2222222222/777777777777\55555555555\222222222-----------------------|
+--2222222222/777777777777\55555555555\222222222-----------------------|
+
+change #2 "...nobody ..."
+
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+----------------------------------------------------------------------|
+--5555555555/777777777777\222222222/55555555555-----------------------|
+--5555555555/777777777777\222222222/55555555555-----------------------|
+--5555555555/777777777777\222222222/55555555555-----------------------|
+
+I can't remember exactly where in the lyrics the changes are but once
+you listen to the song you'll know where they are & where changes  #1 and #2 go.
+Be patient with my instructions, this is my first posting.  Recommendation: use a light pick to get that 
+guitar attack.  Cheers to everyone else who has posted tabs. Much appreciated. I'm waiting
+for help with the rest of the songs off this double album masterpiece.  Especially 'To forgive' & 'Jellybelly'.
+
+
+Date: Tue, 14 Nov 1995 12:31:20 -0800 (PST)
+From: FateGrinder <wzombie@netcom.com>
+Subject: TAB: Bodies by Smashing Pumpkins
+
+bodies -- Smashing Pumpkins (billy corgan)
+------
+transcribed by Paul Scheidt (wzombie@netcom.com)
+
+one of the new, improved, gonna-kill-your-family tunes off the double album,
+Mellon Collie and the Infinite Sadness...
+
+Tuning: (Db Ab Db Gb Bb Eb) dropped-D with whole guitar down a half step
+
+intro note
+-------|
+-------|
+-------|
+---7---|   over and over for the entirety of the intro
+-------|
+-------|
+
+E5  Ab5  Eb5
+E5  Ab5  Eb5
+E5  Ab5  Eb5
+E5  Ab5  Eb5
+
+E5       Ab5     Eb5  E5     Ab5    Eb5    E5
+Cast the pearls aside, of a simple life of need
+E5     Ab5   Eb5     E5    Ab5  Eb5
+Come into my life forever
+
+Eb5           Db5    Gb5     Eb5
+The crumbled cities stand as known
+Eb5      Db5      Gb5       Eb5
+of the sights you have been shown
+Eb5    Db5      Gb5       Eb5
+of the hurt you call your own
+Eb5              Db5  Gb5
+<you know, you know>
+
+
+chorus 1
+--------|
+---10---|
+--------| with either a phaser or wah pedal, I can't tell..
+---7----| play above following line
+--------|
+--------|
+
+E5      Ab5 Eb5
+Love is suicide  (x4)
+
+
+Gb5       E5     Ab5      Gb5
+The empty bodies stand at rest
+Gb5    E5       Ab5       Gb5
+Casualties of their own flesh
+Gb5       E5       Ab5   Gb5 E5    Ab5
+Afflicted by their dispo-sse-ssion
+
+
+chorus 2
+B5      C#5   E5    B5
+But no bodies ever knew
+B5 C#5  E5  B5
+No-body-s
+B5   C#5   E5       B5
+No bodies felt like you
+B5 C#5  E5
+No-body-s
+
+
+quiet part
+----------12----12---12---|
+-------10---10--10---10---|
+----10----------10---10---| play this REAL close to the bridge for that music
+--------------------------| box kinda sound.. slight hint of chorus, too..
+--------------------------|
+--------------------------|
+
+Love is suicide, love is suicide, love is suicide, love is.. love..
+
+
+solo part
+E5             Ab5       Eb5  E5
+       Now we drive the night
+------------------------------------|
+------------------------------------|
+---2---7---9--7-----9---9b10r9~\----|
+------------------------------------|
+------------------------------------|
+------------------------------------|
+
+E5            Ab5        Eb5  E5
+       to the ironies of peace
+------------------------------|
+------------------------------|
+---2---7--9--9b10r9--9-7-9----|
+------------------------------|
+------------------------------|
+------------------------------|
+
+E5               Ab5    Eb5   E5   Ab5  Eb5
+       You can't help deny forever
+---------------------------------------|
+---------------------------------------|
+---2---7---9----9b10r9--7--5-7-9~~\----|
+---------------------------------------|
+---------------------------------------|
+---------------------------------------|
+
+
+Eb5       Db5   Gb5     Eb5
+The tragedies reside in you
+Eb5        Db5    Gb5     Eb5
+The secret sights hide in you
+Eb5        Db5     Gb5          Eb5
+The lonely nights divide you in two
+Eb5          Db5  Gb5
+<in two, in two>
+
+Gb5    E5       Ab5   Gb5
+All my blisters now revealed
+Gb5    E5         Ab5  Gb5
+In the darkness of my dreams
+Gb5    E5     Ab5  Gb5   E5  Ab5
+In the spaces in between us
+
+
+chorus 2 with just one guitar
+
+then chorus 2 with two guitars, and one angry Billy Corgan.. :)
+
+then chorus 1 again
+
+end on Db5, then pull the plug outta your guitar and do strange things with it
+
+chord formations
+----------------
+Db5  000xxx
+Eb5  222xxx
+E5   333xxx
+Gb5  555xxx
+Ab5  x0222x
+B5   x3555x
+C#5  x5777x

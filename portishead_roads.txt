@@ -1,0 +1,58 @@
+Portishead - Roads
+==================
+
+ Intro/Verse:
+   Am              G6         Fmaj7    E7                F       G
+Am
+e:-----------------0-----|----1--------0----|------|---------------------|
+B:-----------------0-----|----1--------0----|------|--------------------|
+G:----5------------0-----|----2--------1----|------|---0h2-----0h4-----5|x2
+D:-7--------7------2-----|----2--------0----|--x2--|---0h3-----0h5-----7|
+A:----7------------2-----|----3--------2----|------|-----3-----0h5-----7|
+E:-5---------------3-----|----1--------0----|------|-----1-------3-----5|
+
+Verse 1:
+--------
+Am     G6              Fma7  E7		    Am
+  Oho,   can't anybody see?       You gotta walk to find me,
+G6  		       Fmaj7       E7
+  Never found our way,  regardless,  of what they say
+F 	      	 G	 Am		   F
+   How can it feel, this wrong?  From this moment,
+ 	    G	       Am
+How can if feel, this wrong?
+
+Verse 2: (same chords as previously) Chords have more echo here
+--------
+Am	  G6		      Fmaj7      E7      Am
+    Stoned, in the morning light,   I feel,   no more
+	G6  Fmaj7    E7		  F		   G
+Can I say,    frozen,   to myself, I got nobody on my side,
+    		      Am
+And surely that ain't right
+F	G		     Am
+ 	   Surely that ain't right.
+
+Verse 3:
+--------
+Same as verse 1, except with strings..Also, 2nd Am is sussed,
+if you see what I mean...(play 2nd Am as Am->Asus4->G6)
+
+Until:
+
+F	     G		Am		 F
+  How can it feel, this wrong, from this moment
+	   G	      E7
+How can it feel, this wrong?
+
+Break:
+------
+Play intro (with a lot of bass A, G, F, E) up to:
+F	     G		Am		 F
+  How can it feel, this wrong, from this moment
+	   G	      E7
+How can it feel, this wrong?
+
+Play Verse 1 again (the same way as in intro).
+Ends on:  		 Am
+		"...this wrong."
